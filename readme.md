@@ -11,3 +11,6 @@ pip install -r requirements.txt
 ```
 
 ![GIT DEMO ](./screenshots/apple.jpg)
+
+- Himanshu
+- Anmol
